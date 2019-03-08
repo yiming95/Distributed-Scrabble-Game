@@ -47,10 +47,10 @@ and invoke corresponding methods with parameters sent by the client.
       
 ## Screenshots
 
-* <img width="868" alt="screen shot 2019-03-08 at 3 05 04 pm" src="https://user-images.githubusercontent.com/40975373/54007371-7dfb0680-41b5-11e9-9aa0-daac32e3eec3.png">
+ <img width="868" alt="screen shot 2019-03-08 at 3 05 04 pm" src="https://user-images.githubusercontent.com/40975373/54007371-7dfb0680-41b5-11e9-9aa0-daac32e3eec3.png">
 
 
-* <img width="868" alt="screen shot 2019-03-08 at 3 05 22 pm" src="https://user-images.githubusercontent.com/40975373/54007374-83f0e780-41b5-11e9-8e6d-9329e0e946ab.png">
+ <img width="868" alt="screen shot 2019-03-08 at 3 05 22 pm" src="https://user-images.githubusercontent.com/40975373/54007374-83f0e780-41b5-11e9-8e6d-9329e0e946ab.png">
 
 
 ## Authors
